@@ -1,3 +1,5 @@
 Kaffee
 Tee
 Zucker
+Milch
+Sahne
